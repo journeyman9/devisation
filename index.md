@@ -1,3 +1,3 @@
 # Hi, this is for you.
 
-<img src="{{site.baseurl | prepend: site.url}}https://media.giphy.com/media/aGPrYkjsWOzSg/giphy.gif" alt="zigzag" />
+![redpanda](https://user-images.githubusercontent.com/14606733/142158144-d66e1f09-9d21-4487-823e-bf30d40cadec.gif)
