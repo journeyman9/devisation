@@ -1,3 +1,3 @@
 # Hi, this is for you.
 
-![](https://media.giphy.com/media/aGPrYkjsWOzSg/giphy.gif)
+<img src="{{site.baseurl | prepend: site.url}}https://media.giphy.com/media/aGPrYkjsWOzSg/giphy.gif" alt="zigzag" />
